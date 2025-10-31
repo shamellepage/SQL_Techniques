@@ -211,6 +211,48 @@ Joins: <br/>
 
 
 
+<h2>SQL Project 17</h2>
+Samira, a regional branch manager, is evaluating interest impact on long-term mortgage loans. She wants to study how efficiently interest is distributed over time. For each mortgage loan with a term longer than 36 months and a moderate interest rate, she needs to analyze how much interest the borrower effectively pays per month. She’s reviewing loan ID, loan amount, term, rate, and this monthly interest metric.
+<br />
+
+
+###
+<p align="center">
+Filtering and Calculated Fields: <br/>
+<img width="574" height="205" alt="Image" src="https://github.com/user-attachments/assets/1f137b59-fe8d-4515-b29f-b6a50ab6697b" />
+<br />
+<br />
+
+
+<h2>SQL Project 18</h2>
+Maya in Customer Success is examining transaction risk around withdrawals. She’s looking for situations where a large withdrawal leaves the account with a negative balance greater than $500 — specifically when the remaining amount is lower than the withdrawal itself.
+<br />
+
+
+###
+<p align="center">
+Filtering and Calculated Fields: <br/>
+<img width="585" height="201" alt="Image" src="https://github.com/user-attachments/assets/68dce0f7-5692-4942-903d-f7ca9274915f" />
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
 
 
